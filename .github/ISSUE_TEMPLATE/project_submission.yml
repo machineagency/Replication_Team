@@ -24,7 +24,18 @@ body:
       placeholder: https://github.com/...
     validations:
       required: true
-
+      
+  - type: textarea
+    id: additional_links
+    attributes:
+      label: Additional Links (optional)
+      description: Any other relevant links — papers, videos, forum threads, related projects, etc.
+      placeholder: |
+        - https://...
+        - https://...
+    validations:
+      required: false
+      
   - type: dropdown
     id: difficulty
     attributes:
@@ -38,6 +49,15 @@ body:
     validations:
       required: true
 
+  - type: input
+    id: cost
+    attributes:
+      label: Estimated Build Cost
+      description: Rough estimate of total material cost to replicate.
+      placeholder: e.g., ~$200
+    validations:
+      required: false
+      
   - type: checkboxes
     id: equipment
     attributes:
@@ -75,11 +95,20 @@ body:
     id: contact
     attributes:
       label: Submitter Contact (optional)
-      description: Email, GitHub handle, or affiliation — in case we have follow-up questions.
+      description: Email or GitHub handle in case we have follow-up questions.
       placeholder: "@yourhandle or email@example.com"
     validations:
       required: false
 
+  - type: input
+    id: affiliation
+    attributes:
+      label: Submitter Affiliation (optional)
+      description: Your lab, institution, or organization.
+      placeholder: e.g., University of Washington, Digital Naturalism Labs
+    validations:
+      required: false
+      
   - type: checkboxes
     id: checklist
     attributes:
