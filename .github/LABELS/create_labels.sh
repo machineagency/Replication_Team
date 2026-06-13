@@ -22,6 +22,5 @@ gh label create "difficulty: unknown" --color "EDEDED" --description "Difficulty
 # ── Triage / admin labels ──────────────────────────────────
 gh label create "needs-review"        --color "D4C5F9" --description "Submitted but not yet triaged by the team" --repo "$REPO" --force
 gh label create "duplicate"           --color "CFD3D7" --description "Already submitted or in progress" --repo "$REPO" --force
-gh label create "good first project"  --color "7057FF" --description "Recommended for newer team members" --repo "$REPO" --force
 
 echo "✅ Done."
