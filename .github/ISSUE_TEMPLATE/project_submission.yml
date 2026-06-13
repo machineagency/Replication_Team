@@ -1,1 +1,91 @@
+name: 🔬 Project Submission
+description: Submit an open source hardware or lab project for replication consideration.
+title: "[PROJECT] "
+labels: ["status: queued", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for submitting a project! Please fill out the fields below so we can evaluate it for replication. All public submissions are welcome.
 
+  - type: input
+    id: project_name
+    attributes:
+      label: Project Name
+      placeholder: e.g., OpenFlexure Microscope
+    validations:
+      required: true
+
+  - type: input
+    id: project_link
+    attributes:
+      label: Project Link
+      description: Link to the original repository, paper, or documentation.
+      placeholder: https://github.com/...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: difficulty
+    attributes:
+      label: Estimated Difficulty
+      description: Your best guess at replication complexity.
+      options:
+        - "🟢 Low – straightforward build, well-documented"
+        - "🟡 Medium – some troubleshooting expected"
+        - "🔴 High – complex build, sparse documentation"
+        - "❓ Unknown"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: equipment
+    attributes:
+      label: Equipment / Skills Required
+      description: Check all that apply.
+      options:
+        - label: 3D printing
+        - label: PCB fabrication / soldering
+        - label: Laser cutting
+        - label: Microcontroller programming (Arduino, Raspberry Pi, etc.)
+        - label: Python / software setup
+        - label: Wet lab / chemistry
+        - label: Optics / microscopy
+        - label: Mechanical assembly
+        - label: Other (describe below)
+
+  - type: textarea
+    id: equipment_other
+    attributes:
+      label: Other Equipment / Skills
+      placeholder: Describe any equipment or skills not listed above.
+    validations:
+      required: false
+
+  - type: textarea
+    id: why_replicate
+    attributes:
+      label: Why Should We Replicate This?
+      description: What makes this project valuable or interesting for the open science community?
+      placeholder: e.g., Fills a gap in affordable liquid handling; used by 10+ labs worldwide but never independently validated...
+    validations:
+      required: true
+
+  - type: input
+    id: contact
+    attributes:
+      label: Submitter Contact (optional)
+      description: Email, GitHub handle, or affiliation — in case we have follow-up questions.
+      placeholder: "@yourhandle or email@example.com"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Pre-submission Checklist
+      options:
+        - label: I have searched existing issues to confirm this project hasn't already been submitted.
+          required: true
+        - label: The project is open source (hardware files, BOM, or documentation are publicly available).
+          required: true
