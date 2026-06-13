@@ -30,9 +30,7 @@ body:
     attributes:
       label: Additional Links (optional)
       description: Any other relevant links — papers, videos, forum threads, related projects, etc.
-      placeholder: |
-        - https://...
-        - https://...
+      placeholder: https://...
     validations:
       required: false
       
