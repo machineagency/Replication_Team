@@ -4,17 +4,11 @@ We independently replicate, build, test, and document open source scientific and
 
 ---
 
-## 📋 Project Board
+## 📋 Project Tracker
 
-Track all active, queued, and completed projects on our [GitHub Projects board](../../projects).
-
-| Status | Label | Description |
-|---|---|---|
-| 🔵 Queued | `status: queued` | Accepted and waiting to start |
-| 🟠 In Progress | `status: in-progress` | Actively being replicated |
-| 🟢 Completed | `status: completed` | Finished with documentation |
-| 🟡 On Hold | `status: on-hold` | Paused temporarily |
-
+| Project | Replicator | Status | Link | Issue |
+|---|---|---|---|---|
+| Mothbox Pro | Chris | 🟢 Completed | [link](https://mothbox.org/) | #1 |
 ---
 
 ## 📬 Submit a Project
