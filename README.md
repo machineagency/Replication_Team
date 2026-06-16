@@ -7,7 +7,7 @@ We independently replicate, build, test, and document open source scientific and
 ## 📋 Project Tracker
 
 | Project | Replicator | Status | Link | GOSH Forum | Issue |
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 | Mothbox Pro | Chris | 🟢 Completed | [link](https://mothbox.org/) | [link]([https://mothbox.org/](https://forum.openhardware.science/t/replicator-team-mothbox-pro/7550) | #1 |
 ---
 
