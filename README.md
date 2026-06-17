@@ -9,8 +9,9 @@ We independently replicate, build, test, and document open source scientific and
 | Project | Creator | Replicator | Status | Link | GOSH Forum | Issue |
 |---|---|---|---|---|---|---|
 | Mothbox Pro | Digital Naturalism Laboratories | CG | 🟢 Completed | [link](https://mothbox.org/) | [link](https://forum.openhardware.science/t/replicator-team-mothbox-pro/7550) | #1 |
+|OT2 Wireless Color Sensor|Acceleration Consortium |CG|🟠 In Progress |[link](https://accelerationconsortium.github.io/wireless-color-sensor/)|[link](https://forum.openhardware.science/t/replication-team-ot2-wireless-color-sensor/7698)|#2|
 ---
-
+<!-- | Project Name | Creator Name | Name | 🔵 Queued | [link](url) |[link](url) | # | -->
 ## 📬 Submit a Project
 
 Know an open source hardware project we should replicate? Submit a suggestion and we'll review it for our queue.
