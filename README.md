@@ -8,10 +8,11 @@ We independently replicate, build, test, and document open source scientific and
 
 | Project | Creator | Replicator | Status | Link | GOSH Forum | Issue |
 |---|---|---|---|---|---|---|
-| Mothbox Pro | Digital Naturalism Laboratories | CG | 🟢 Completed | [link](https://mothbox.org/) | [link](https://forum.openhardware.science/t/replicator-team-mothbox-pro/7550) | #1 |
-|OT2 Wireless Color Sensor|Acceleration Consortium |CG|🟠 In Progress |[link](https://accelerationconsortium.github.io/wireless-color-sensor/)|[link](https://forum.openhardware.science/t/replication-team-ot2-wireless-color-sensor/7698)|#2|
+| Mothbox Pro / Mothbox DIY | Digital Naturalism Laboratories | CG / Ali | 🟢 Completed / Testing | [link](https://mothbox.org/) | [CG](https://forum.openhardware.science/t/replicator-team-mothbox-pro/7550), [Ali](https://forum.openhardware.science/t/replicator-team-mothbox-diy/7667) | #1 |
+| OT2 Wireless Color Sensor | Acceleration Consortium | CG / Ali | 🟠 In Progress | [link](https://accelerationconsortium.github.io/wireless-color-sensor/) | [CG](https://forum.openhardware.science/t/replication-team-ot2-wireless-color-sensor/7698), [Ali](https://forum.openhardware.science/t/replication-team-wireless-color-sensor/7733) | #2 |
 | XYZ Micro-Manipulator | Diffraction Limited | CG | 🔵 Queued | [link](https://github.com/0x23/MicroManipulatorStepper/tree/main) |[link](url) | #3 |
 ---
+| OpenFlexure Microscope v7 | OpenFlexure Project | Ali | 🟠 In Progress | [link](https://openflexure.org/projects/microscope/build) |  |  |
 <!-- | Project Name | Creator Name | Name | 🔵 Queued | [link](url) |[link](url) | # | -->
 ## 📬 Submit a Project
 
