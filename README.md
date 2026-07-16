@@ -11,7 +11,9 @@ We independently replicate, build, test, and document open source scientific and
 | Mothbox Pro / Mothbox DIY | Digital Naturalism Laboratories | CG / Ali | 🟢 Completed / Testing | [link](https://mothbox.org/) | [CG](https://forum.openhardware.science/t/replicator-team-mothbox-pro/7550), [Ali](https://forum.openhardware.science/t/replicator-team-mothbox-diy/7667) | #1 |
 | OT2 Wireless Color Sensor | Acceleration Consortium | CG / Ali | 🟠 In Progress | [link](https://accelerationconsortium.github.io/wireless-color-sensor/) | [CG](https://forum.openhardware.science/t/replication-team-ot2-wireless-color-sensor/7698), [Ali](https://forum.openhardware.science/t/replication-team-wireless-color-sensor/7733) | #2 |
 | XYZ Micro-Manipulator | Diffraction Limited | CG | 🟠 In Progress  | [link](https://github.com/0x23/MicroManipulatorStepper/tree/main) |[link](https://forum.openhardware.science/t/replication-team-open-source-motorized-xyz-mirco-manipulator/7797) | #3 |
-| OpenFlexure Microscope v7 | OpenFlexure Project | Ali | 🟠 In Progress | [link](https://openflexure.org/projects/microscope/build) | [Ali](https://forum.openhardware.science/t/replication-team-starting-the-openflexure-low-cost-microscope/7765/3) | #4 |
+| OpenFlexure Microscope v7 | OpenFlexure Project | Ali | 🟠 In Progress | [link](https://openflexure.org/projects/microscope/build) | [Ali](https://forum.openhardware.science/t/replication-team-starting-the-openflexure-low-cost-microscope/7765/3) | #5 |
+| DropGen | Harris Lab, Brown University | CG | 🔵 Queued | [link](https://github.com/harrislab-brown/DropGen/tree/main) |[link](url) | #6|
+
 <!-- | Project Name | Creator Name | Name | 🔵 Queued | [link](url) |[link](url) | # | -->
 ## 📬 Submit a Project
 
