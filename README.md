@@ -14,6 +14,7 @@ We independently replicate, build, test, and document open source scientific and
 | OpenFlexure Microscope v7 | OpenFlexure Project | Ali | 🟠 In Progress | [link](https://openflexure.org/projects/microscope/build) | [Ali](https://forum.openhardware.science/t/replication-team-starting-the-openflexure-low-cost-microscope/7765/3) | #5 |
 | DropGen | Harris Lab, Brown University | CG | 🟠 In Progress | [link](https://github.com/harrislab-brown/DropGen/tree/main) |[link](https://forum.openhardware.science/t/replication-team-dropgen/8060) | #6|
 | EnderScope | Pickering Lab, University College Dublin | CG | 🔵 Queued | [link](https://github.com/Pickering-Lab/EnderScope/tree/main) |[link](url) | #7 |
+| Science Jubilee | Machine Agency  | TD | 🟠 In Progress  | [link](https://science-jubilee.readthedocs.io/en/latest/) |[link](https://forum.openhardware.science/t/replication-team-science-jubilee/8325/10) | # |
 
 <!-- | Project Name | Creator Name | Name | 🔵 Queued | [link](url) |[link](url) | # | -->
 ## 📬 Submit a Project
